@@ -236,8 +236,6 @@ ul ul ul {
 .HyperMD-task-line[data-task=">"],
 .HyperMD-task-line[data-task="-"],
 .HyperMD-task-line[data-task="<"]) .task-list-item-checkbox::after {
-  -webkit-mask-image: none;
-  mask-image: none;
   background-color: transparent;
 }
 
@@ -271,7 +269,7 @@ ul ul ul {
 }
 
 .cm-em, em,
-.cm-em cm-quote cm-quote-1
+.cm-em, cm-quote cm-quote-1
  {
     color: var(--italic);
 }
