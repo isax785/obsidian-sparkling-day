@@ -1,3 +1,5 @@
+# Sparkling Day
+
 ![img](img/sparkling_day.png)
 
 `Sparkling Day` is the light theme derived from <a href="https://github.com/isax785/obsidian-sparkling-night">Sparkling Night</a>.
